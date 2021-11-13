@@ -12,7 +12,7 @@ A simple web application to demo a friend List
 type the keywords of name in search bar
 
 ### Filter
-you can choose "male", "female" or "all gender"
+you can filter the friend list by choosing the category:  "male", "female" or "all gender"
 
 ### Favorite List
 In index page, press the `+` button on the friend to keep it into favorite list.
